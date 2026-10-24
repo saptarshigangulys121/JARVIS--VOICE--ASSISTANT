@@ -2,6 +2,12 @@
 
 A small Windows voice assistant built with Python. Jarvis listens for spoken commands, speaks responses aloud, opens websites and selected desktop apps, plays music links, reads news headlines, and answers general questions using a local Ollama model.
 
+## Terminal preview
+
+Illustrative example of Jarvis listening and answering a spoken question. The response is sample text; actual answers come from your local Ollama model.
+
+![Illustrative terminal preview of Jarvis listening and answering a question](./assets/terminal-preview.svg)
+
 ## Features
 
 - Voice input through SpeechRecognition and a microphone

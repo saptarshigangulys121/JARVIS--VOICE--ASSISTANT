@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-labelledby="title description">
+  <title id="title">Jarvis Voice Assistant terminal preview</title>
+  <desc id="description">An illustrative terminal showing Jarvis calibrating its microphone, listening, and answering a spoken question.</desc>
+  <rect width="900" height="470" rx="18" fill="#0d1117"/>
+  <path d="M18 0h864a18 18 0 0 1 18 18v46H0V18A18 18 0 0 1 18 0z" fill="#161b22"/>
+  <circle cx="30" cy="32" r="7" fill="#ff5f57"/>
+  <circle cx="54" cy="32" r="7" fill="#febc2e"/>
+  <circle cx="78" cy="32" r="7" fill="#28c840"/>
+  <text x="450" y="37" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="15" text-anchor="middle">Jarvis Voice Assistant</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="17">
+    <text x="36" y="112" fill="#8b949e">Calibrating microphone...</text>
+    <text x="36" y="150" fill="#3fb950">Listening...</text>
+    <text x="36" y="188" fill="#8b949e">You said: what is photosynthesis</text>
+    <text x="36" y="244" fill="#79c0ff">Jarvis:</text>
+    <text x="36" y="276" fill="#d1d7e0">Photosynthesis is the process plants use to turn light,</text>
+    <text x="36" y="306" fill="#d1d7e0">water, and carbon dioxide into sugars and oxygen.</text>
+    <text x="36" y="362" fill="#3fb950">Listening...</text>
+    <text x="36" y="420" fill="#8b949e" font-size="14">Illustrative output — spoken interaction is shown as recognized text.</text>
+  </g>
+</svg>
